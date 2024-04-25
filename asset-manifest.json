@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodgeek/static/css/main.8d5b23ef.css",
+    "main.js": "/foodgeek/static/js/main.57cad687.js",
+    "static/js/453.af66a239.chunk.js": "/foodgeek/static/js/453.af66a239.chunk.js",
+    "static/media/log.svg": "/foodgeek/static/media/log.82d32baeb6e96dbce158a48f8d0b0ea9.svg",
+    "index.html": "/foodgeek/index.html",
+    "main.8d5b23ef.css.map": "/foodgeek/static/css/main.8d5b23ef.css.map",
+    "main.57cad687.js.map": "/foodgeek/static/js/main.57cad687.js.map",
+    "453.af66a239.chunk.js.map": "/foodgeek/static/js/453.af66a239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5b23ef.css",
+    "static/js/main.57cad687.js"
+  ]
+}
